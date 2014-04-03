@@ -1,0 +1,145 @@
+{
+  "path": "sample",
+  "name": "sample",
+  "type": "folder",
+  "children": [
+    {
+      "path": "sample/.DS_Store",
+      "name": ".DS_Store",
+      "type": "file"
+    },
+    {
+      "path": "sample/folder_a",
+      "name": "folder_a",
+      "type": "folder",
+      "children": [
+        {
+          "path": "sample/folder_a/.DS_Store",
+          "name": ".DS_Store",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_a/subfolder",
+          "name": "subfolder",
+          "type": "folder",
+          "children": [
+            {
+              "path": "sample/folder_a/subfolder/.DS_Store",
+              "name": ".DS_Store",
+              "type": "file"
+            },
+            {
+              "path": "sample/folder_a/subfolder/wallpaper-1801977.jpg",
+              "name": "wallpaper-1801977.jpg",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "sample/folder_a/wallpaper-1599887.jpg",
+          "name": "wallpaper-1599887.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_a/wallpaper-1599894.jpg",
+          "name": "wallpaper-1599894.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_a/wallpaper-1736361.jpg",
+          "name": "wallpaper-1736361.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "sample/folder_b",
+      "name": "folder_b",
+      "type": "folder",
+      "children": [
+        {
+          "path": "sample/folder_b/.DS_Store",
+          "name": ".DS_Store",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_b/wallpaper-1836886.png",
+          "name": "wallpaper-1836886.png",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_b/wallpaper-1866194.jpg",
+          "name": "wallpaper-1866194.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_b/wallpaper-1894209.jpg",
+          "name": "wallpaper-1894209.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_b/wallpaper-1913724.jpg",
+          "name": "wallpaper-1913724.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "sample/folder_c",
+      "name": "folder_c",
+      "type": "folder",
+      "children": [
+        {
+          "path": "sample/folder_c/.DS_Store",
+          "name": ".DS_Store",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_c/wallpaper-1942818.jpg",
+          "name": "wallpaper-1942818.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_c/wallpaper-1942819.jpg",
+          "name": "wallpaper-1942819.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_c/wallpaper-1951087.jpg",
+          "name": "wallpaper-1951087.jpg",
+          "type": "file"
+        },
+        {
+          "path": "sample/folder_c/wallpaper-1960061.jpg",
+          "name": "wallpaper-1960061.jpg",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "sample/wallpaper-1966216.jpg",
+      "name": "wallpaper-1966216.jpg",
+      "type": "file"
+    },
+    {
+      "path": "sample/wallpaper-1978939.jpg",
+      "name": "wallpaper-1978939.jpg",
+      "type": "file"
+    },
+    {
+      "path": "sample/wallpaper-1978944.jpg",
+      "name": "wallpaper-1978944.jpg",
+      "type": "file"
+    },
+    {
+      "path": "sample/wallpaper-1983001.jpg",
+      "name": "wallpaper-1983001.jpg",
+      "type": "file"
+    },
+    {
+      "path": "sample/wallpaper-52475.jpg",
+      "name": "wallpaper-52475.jpg",
+      "type": "file"
+    }
+  ]
+}
